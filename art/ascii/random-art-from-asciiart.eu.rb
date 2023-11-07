@@ -1,3 +1,7 @@
+# Usage:
+# 1) install dependencies `bundle install`
+# 2) ruby random-art-from-asciiart.eu.rb
+
 require 'watir'
 
 # Setup Webdriver and navigate to the website
